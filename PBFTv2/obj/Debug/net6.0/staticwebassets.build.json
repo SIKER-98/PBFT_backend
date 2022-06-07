@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vukKdX8VZpV5Ll+1gO/zAjWEi1uP15k0L/uuQwJngfc=",
+  "Source": "PBFT_v2",
+  "BasePath": "_content/PBFT_v2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
